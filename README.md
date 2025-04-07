@@ -32,7 +32,7 @@ O principal objetivo deste projeto é proporcionar uma experiência divertida e 
 - **Pesquisa por Nome**: Permite buscar personagens específicos pelo nome.
 - **Detalhes dos Personagens**: Mostra informações detalhadas de cada personagem, incluindo:
     - Nome completo.
-    - Descrição (quando disponível).
+    - Descrição.
     - Imagem oficial.
 - **Interface Responsiva**: Layout adaptável para diferentes dispositivos, como desktops, tablets e smartphones.
 
